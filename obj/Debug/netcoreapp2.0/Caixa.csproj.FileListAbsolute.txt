@@ -1,0 +1,10 @@
+C:\Users\jose.ccustodio2\logica\Caixa\bin\Debug\netcoreapp2.0\Caixa.deps.json
+C:\Users\jose.ccustodio2\logica\Caixa\bin\Debug\netcoreapp2.0\Caixa.runtimeconfig.json
+C:\Users\jose.ccustodio2\logica\Caixa\bin\Debug\netcoreapp2.0\Caixa.runtimeconfig.dev.json
+C:\Users\jose.ccustodio2\logica\Caixa\bin\Debug\netcoreapp2.0\Caixa.dll
+C:\Users\jose.ccustodio2\logica\Caixa\bin\Debug\netcoreapp2.0\Caixa.pdb
+C:\Users\jose.ccustodio2\logica\Caixa\obj\Debug\netcoreapp2.0\Caixa.csproj.CoreCompileInputs.cache
+C:\Users\jose.ccustodio2\logica\Caixa\obj\Debug\netcoreapp2.0\Caixa.AssemblyInfoInputs.cache
+C:\Users\jose.ccustodio2\logica\Caixa\obj\Debug\netcoreapp2.0\Caixa.AssemblyInfo.cs
+C:\Users\jose.ccustodio2\logica\Caixa\obj\Debug\netcoreapp2.0\Caixa.dll
+C:\Users\jose.ccustodio2\logica\Caixa\obj\Debug\netcoreapp2.0\Caixa.pdb

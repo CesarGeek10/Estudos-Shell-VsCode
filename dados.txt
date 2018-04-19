@@ -1,0 +1,4 @@
+O produto escolhido foi: Fone
+O preco do produto é: 2000
+O valor de desconto ou acréscimo é: 200
+O preço final do produto é: 1800
